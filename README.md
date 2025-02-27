@@ -1,14 +1,3 @@
-To create the README file for your **Mastering API** project, follow these steps:
-
-### 1️⃣ Create the `README.md` File
-Inside your project folder, create a new file named `README.md`.
-
-### 2️⃣ Add Content to `README.md`
-Open `README.md` in a text editor (e.g., VS Code, Notepad++, or any IDE) and paste the following content:
-
-```md
-# Mastering API  
-
 ## Overview  
 **Mastering API** is an ASP.NET Web API project designed to explore and implement essential API development concepts. This project demonstrates best practices in building robust, scalable, and efficient APIs.  
 

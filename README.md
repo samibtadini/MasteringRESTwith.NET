@@ -24,21 +24,21 @@
 ## Setup Instructions:  
 1. Clone the repository:  
    ```sh
-  git clone https://github.com/samibtadini/MasteringREST.NET.git
+    git clone https://github.com/samibtadini/MasteringREST.NET.git
    ```
-2. Navigate to the project folder:  
+2. Navigate to the project folder:
    ```sh
-   cd MasteringAPI
+    cd MasteringAPI
    ```
-3. Restore dependencies:  
+4. Restore dependencies:  
    ```sh
    dotnet restore
    ```
-4. Update the database (if using EF Core Migrations):  
+5. Update the database (if using EF Core Migrations):  
    ```sh
    dotnet ef database update
    ```
-5. Run the application:  
+6. Run the application:  
    ```sh
    dotnet run
    ```
@@ -48,7 +48,6 @@ Detailed API documentation is available in Swagger UI.
 
 ## Contributions  
 Feel free to fork this repository and submit pull requests!  
-```
 
 ### 3️⃣ Save the File
 
